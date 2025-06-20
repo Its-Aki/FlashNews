@@ -1,7 +1,7 @@
 ## FlashNews: Top News at One Place
 NewsListScreen            |  NewsDetailScreen
 :-------------------------:|:-------------------------:
-![newspic1](https://github.com/user-attachments/assets/55ffbf06-1168-4f5c-81f7-c321ae8b51d1))  |  ![newspic2](https://github.com/user-attachments/assets/8ca6e9bf-d3af-4da0-b41e-1aa76af00b59)
+![newspic1](https://github.com/user-attachments/assets/55ffbf06-1168-4f5c-81f7-c321ae8b51d1)  |  ![newspic2](https://github.com/user-attachments/assets/8ca6e9bf-d3af-4da0-b41e-1aa76af00b59)
 
 FlashNews is a free and open source **News android app**. It's written using **100% Kotlin and Jetpack Compose**. It's designed to help you keep track of TopNews with ease.
 
